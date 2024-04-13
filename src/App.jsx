@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <section className="">
+    <section className="bg-gradient-to-tr from-cyan-500 via-purple-500 to-blue-500">
       <SalaryDiscountCalculator
         salary={salary}
         setSalary={setSalary}
