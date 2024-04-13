@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <div>
+    <section className="">
       <SalaryDiscountCalculator
         salary={salary}
         setSalary={setSalary}
@@ -19,7 +19,7 @@ function App() {
         extraHours={extraHours}
         setExtraHours={setExtraHours}
       />
-    </div>
+    </section>
 
     </>
   )
