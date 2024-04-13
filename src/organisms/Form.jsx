@@ -4,7 +4,7 @@ import Button from '../atoms/Button'
 const Form = ({salary, setSalary, bonifications, setBonifications, extraHours, setExtraHours, buttonType, OnClickFn, buttonText}) => {
 
   return (
-    <form className='block w-3/4 py-5 bg-gray-700 mx-auto flex-column rounded-b-md drop-shadow-lg'>
+    <form className='block w-3/4 lg:w-3/6 py-5 bg-gray-700 mx-auto flex-column rounded-b-md drop-shadow-lg'>
         <FormSections 
           text={"Monthly Salary (in DOP)"}
           inputId={"MonthlySalary"}
