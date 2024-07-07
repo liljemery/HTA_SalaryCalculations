@@ -4,7 +4,7 @@
 
 This is a Project to calculate the final paystub of an employee.
 
-At the moment of development, the scalability-oriented design was focused and tried to make sure that every componente can be reusable as if it was a project and a "framework" too.
+At the moment of development, the scalability-oriented design was focused and tried to make sure that every component can be reusable as if it was a project and a "framework" too.
 
 #### This project aims to use HOCs ( High Order Components ) and the Atomic Design for the modularization of the code, so can be used as a guide.
 
